@@ -2,5 +2,6 @@
 Analytics for Hospitals' Health-Care Data
 
 
-Link for Empathy Map in mural
-https://app.mural.co/invitation/mural/ibmproject9924/1661272749944?sender=ua77ef880d082964431c83675&key=bc806ae7-af4b-433d-afec-59e6819440d7
+## Goal 
+
+The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
