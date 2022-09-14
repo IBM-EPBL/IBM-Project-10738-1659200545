@@ -1,10 +1,10 @@
-#Assignment 1
-##The case of 50 Startups
+# Assignment 1
+## The case of 50 Startups
 
-##Dataset 
+## Dataset 
 50-Startup-Dataset https://drive.google.com/file/d/100OUpJFG8GQjhFztbfG5JP_jvzRgoihr/view
 
-##Description
+## Description
 This particular dataset holds data from 50 startups in New York, California, and Florida. The
 features in this dataset are R&D spending, Administration Spending, Marketing Spending, and
 location features, while the target variable is: Profit.
@@ -14,5 +14,5 @@ location features, while the target variable is: Profit.
 4. State: To which state that particular startup belongs.
 5. Profit: How much profit that particular startup is making.
 
-##Challenge
+## Challenge
 Upload the dataset to Cognos Analytics, explore and visualize the dataset
