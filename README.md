@@ -6,6 +6,6 @@ Analytics for Hospitals' Health-Care Data
 
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-##Demo Link
+## Demo Link
 
 https://drive.google.com/file/d/148gEghLczKQyL777re8UXN138dZJurRl/view?usp=sharing
